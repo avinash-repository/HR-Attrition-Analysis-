@@ -16,5 +16,7 @@ This project analyzes employee attrition within a company, utilizing Power BI to
 
 ### Dashboard Preview
 ![HR Attrition Dashboard](hr.png)
+
+ Dashboard of Sales Departments
 ![HR Attrition In Sales Departments ](hr2.png)
 
